@@ -1,0 +1,94 @@
+# Overpass
+# Utility
+
+# CT
+## Pistole
+1.pick mida na info
+			2. gniazdo moło, flesz
+			3. def i cuś
+			4,5 pick monstera
+		Eco
+			#1 Ustawka na B
+				1. woda
+				2. abc
+				3. main CT
+				4. gniazdo
+				5. info na a
+			#2 Ustawka w kiblach
+				1-3. przy mainie
+				4. 	 od strony bana przy ławce
+				5. czeka z fleszem
+		Dojazd:
+			#1 Syfu
+				1. moło/smoke rura
+				2. gaszenie szorta
+				3. flesz na dojazd
+				4-5 A
+			#2 Monstera
+				1. smoke z A na monster
+				2. flesz z bsa B nad monster
+				3-4. dojazd monstera
+				5. A
+			#3 Mida
+				1. palak rampa - flesz plac zabaw
+				2. dojazd
+				3. flesz mid
+				4-7 defensywanie B
+# TT
+## Pistole
+### Defacto
+- mejz + strazi: czekają na rampie
+- hrz + raffo + caishen dojazd connecta
+jeśli jest frag to lecimy do A
+jeśli nie ma fraga to lecimy do doniczek zostawiamy jednego i powrót do B
+			####
+			1.   zostaje na longu
+			2-5. fake B
+			####
+			1-5. wyjazd na A
+		Eco
+			#1 Przejazd longiem
+				1. 2 flesze
+				2. flesz
+				3-5. kev pistol
+			#2 To samo co w pistolach
+		#A Ściana
+			1. smoke bs
+			2. smoke truck
+		#A ...
+			smoke schody, bank, spalić trucka, spalić standard
+		#B Rush Monster
+			1. entry
+			2. moło beczki, gasi monster, biegnie na antyfleszu
+			3. fleszuje monster
+			4. smoke bs - kontrola syfu/zamykanie shorta
+			5. smoke kładka
+		#B Split B
+			1-2 rush rura/short
+			3. skanuje shorta
+			4. smoke bs/gniazdo, flesz syf
+			5. kontrola monstera
+
+
+
+
+
+
+
+		pop flash b
+		pop flash pick fontanna
+		smoke zajęcie monstera
+		molo w biegu rura
+
+
+	TT
+		1,2smoke zajęcie mida
+		presja mid flesze
+		rush b monster
+			1,2 rush
+			3 molo, plecami gasi
+			4 fleszuje
+			5 smoke bs/haeven
+
+
+A
